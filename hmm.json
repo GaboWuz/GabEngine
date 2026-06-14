@@ -1,22 +1,17 @@
 {
   "dependencies": [
     {
-      "name": "discord_rpc",
-      "type": "git",
-      "ref": "master",
-      "url": "https://github.com/MobilePorting/linc_discord-rpc-0.6.3"
-    },
-    {
       "name": "linc_luajit",
       "type": "git",
-      "ref": "main",
-      "url": "https://github.com/MobilePorting/linc_luajit-0.6.3.git"
+      "ref": "master",
+      "url": "https://github.com/superpowers04/linc_luajit"
     },
     {
       "name": "extension-androidtools",
       "type": "git",
-      "ref": "main",
-      "url": "https://github.com/MobilePorting/extension-androidtools-0.6.3"
+      "dir": null,
+			"ref": "main",
+			"url": "https://github.com/MAJigsaw77/extension-androidtools"
     },
     {
       "name": "flixel-tools",
@@ -47,22 +42,19 @@
       "version": "2.4.0"
     },
     {
-      "name": "hxCodec",
-      "type": "git",
-      "ref": "main",
-      "url": "https://github.com/MobilePorting/hxCodec-0.6.3.git"
+        "name": "hscript",
+        "type": "haxelib",
+        "version": "2.4.0"
     },
     {
       "name": "hxcpp",
-      "type": "git",
-      "ref": "master",
-      "url": "https://github.com/mcagabe19-stuff/hxcpp.git"
+      "type": "haxelib",
+      "version": "4.2.1"
     },
     {
       "name": "lime",
-      "type": "git",
-      "ref": "main",
-      "url": "https://github.com/MobilePorting/lime-0.6.3.git"
+      "type": "haxelib",
+      "version": "7.9.0"
     },
     {
       "name": "openfl",
