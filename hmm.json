@@ -60,6 +60,11 @@
       "name": "openfl",
       "type": "haxelib",
       "version": "9.1.0"
+    },
+    {
+        "name": "hxCodec",
+        "type": "haxelib",
+        "version": "2.6.1"
     }
   ]
 }
